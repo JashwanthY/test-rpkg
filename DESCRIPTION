@@ -1,0 +1,20 @@
+Package: adslbuilder
+Type: Package
+Title: Build ADSL Dataset from SDTM Data
+Version: 0.1.0
+Author: SAS to R Conversion Agent
+Maintainer: SAS to R Conversion Agent
+Description: A package for converting SDTM (Study Data Tabulation Model) data 
+    into ADSL (Analysis Data Subject Level) datasets. This package demonstrates 
+    a SAS-to-R conversion workflow for clinical trial data processing.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr (>= 1.0.0),
+    readr (>= 2.0.0),
+    lubridate (>= 1.8.0)
+Suggests:
+    testthat (>= 3.0.0)
+RoxygenNote: 7.3.1
+
