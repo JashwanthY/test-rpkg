@@ -3,8 +3,8 @@ Type: Package
 Title: Build ADSL Dataset from SDTM Data
 Version: 0.1.0
 Authors@R: person(
-  "Jashwanth", "Yenugu",
-  email = "jashwanth.yenugu@gmail.com",
+  "first", "last",
+  email = "first.last@test.com",
   role = c("aut", "cre")
 )
 Description: A package for converting SDTM (Study Data Tabulation Model) data
